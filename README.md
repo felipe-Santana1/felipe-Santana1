@@ -34,7 +34,6 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-000000?style=for-the-badge&logo=visual%20studio&logoColor=purple)
 ![Sublime](https://img.shields.io/badge/sublime_text-000000.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-000000.svg?&style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=important)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=important)
 
 
 ### <h5> [Conhecimentos - Linguagem Programação]</h5>
@@ -67,7 +66,6 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
   <i>🤝🏻 Vamos nos conectar!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/gusta-nascimento/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="https://www.instagram.com/gusta.nascimento/" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="mailto:caous.g@gmail.com" alt="E-mail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>   
+    <a href="https://www.linkedin.com/in/felipe-santana-5059a0191/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+    <a href="https://www.instagram.com/felipe_ssilva53/" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>   
   </p>
