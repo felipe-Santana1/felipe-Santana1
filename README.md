@@ -21,9 +21,9 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 
 ### [Carreira] </br>
-- [Atual] Desenvolvedor Pleno - Banco Itaú
-- [2018-2019] Desenvolvedor Junior - Action Cargo
-- [2017-2018] Estagiário Infraestrutura - Intelligence for Us Desenvolvimento de Projetos e Treinamentos LTDA ME </br></br>
+- [Atual] Analista de Suporte- Calia Y2 Propaganda e Marketing
+- [2020-2021] Estagio TI - Calia Y2 Propaganda e Marketing 
+- [2017-2018] Jovem Aprendiz atuando no time de Front-End - C6 Bank </br></br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caous&layout=compact&text_color=daf7dc&bg_color=151515)
@@ -38,11 +38,8 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 
 ### <h5> [Conhecimentos - Linguagem Programação]</h5>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=14354C)
 
 
 
@@ -51,23 +48,18 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=red)
-![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+
 
 
 ### <h5> [Conhecimentos - Banco de Dados 🛢]</h5>
 ![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
 ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![MariaBD](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 ### <h5> [Versionamento de projeto] </h5>
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![RTC](http://img.shields.io/badge/-IBM-000000?style=for-the-badge&logo=IBM&logoColor=cyan)
-![Azure](https://img.shields.io/badge/microsoft%20azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)S
 </br></br></br></br>
 
 
