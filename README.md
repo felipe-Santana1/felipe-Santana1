@@ -12,16 +12,17 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 </br></br>
 
 ### [Insight] </br>
-- 🔭 Ser um bom programador e poder colaborar/servir para resolver problemas
+- 🔭 Ser um bom desenvolvedor e poder colaborar para solução dos problemas
 - 🌱 Sempre aprender **Tolo é aquele que acha que sabe de tudo.**
-- 👯 Empreender é uma base fundamental, empreender em mim mesmo onde eu sou minha prória marca
+- 👯 Empreender é uma base fundamental, investir em mim mesmo onde eu sou minha prória marca
 - 🤔 Meritocracia é com base naquilo que faz para agregar e recebe sua recompensa equivalente sem pedir nada a mais!
 - 💬 Vejo que o futuro já se encontra em nossa realidade **IA - IOT - Micro Service.**
 - ⚡ O que me trouxe até aqui não irá me levar ao próximo nível seja grato mas não tem problema não estar satisfeito!
 
 
 ### [Carreira] </br>
-- [Atual] Analista de Suporte- Calia Y2 Propaganda e Marketing
+- [Atual] Software Enginer Jr - Indra Company 
+- [2021] Analista de Suporte- Calia Y2 Propaganda e Marketing
 - [2020-2021] Estagio TI - Calia Y2 Propaganda e Marketing 
 - [2017-2018] Jovem Aprendiz atuando no time de Front-End - C6 Bank </br></br>
 
@@ -44,10 +45,14 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 
 ### <h5> [Conhecimentos - Web 🌐]</h5>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-
+![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&amp;logo=angular)
+![Node.JS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&amp;logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 
 
 ### <h5> [Conhecimentos - Banco de Dados 🛢]</h5>
@@ -58,7 +63,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 ### <h5> [Versionamento de projeto] </h5>
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)S
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 </br></br></br></br>
 
 
